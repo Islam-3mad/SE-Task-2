@@ -3,15 +3,10 @@
 
 ## Team Members
 | Student ID | Name | Role / Tasks | Branch |
-
 |---|---|---|---|
-
 | **20240081** | **Islam Emad Eldin Ahmed** | Student 1: Use Cases & Requirements | `islam` |
-
 | [ID] | Teammate 2 Name | Student 2: Class Diagram & Sequence | `mohaned` |
-
-| [ID] | Teammate 3 Name | Student 3:  Implementation | `mohammed` |
-
+| [ID] | Teammate 3 Name | Student 3: Implementation | `mohammed` |
 ## Configuration
 - **Max Upcoming Appointments per Patient (N):** `3`
 
