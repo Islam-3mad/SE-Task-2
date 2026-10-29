@@ -1,6 +1,5 @@
 # Doctor Appointment Booking System 
 
-[![check](https://github.com/Islam-3mad/SE-Task-2/actions/workflows/check.yml/badge.svg)](https://github.com/Islam-3mad/SE-Task-2/actions)
 
 ## Team Members
 | Student ID | Name | Role / Tasks | Branch |
