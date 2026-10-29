@@ -37,5 +37,5 @@ class TestClinicSystem(unittest.TestCase):
         self.assertTrue(self.slot1.is_available)
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     unittest.main()
